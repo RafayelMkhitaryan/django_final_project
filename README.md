@@ -10,6 +10,13 @@ This is a fully functional E-Commerce web application built using Django. It pro
 - **Email Notifications**: Send emails for order confirmations, password resets, and promotions.
 - **Cart & Checkout**: Add to cart, manage orders, and process payments.
 - **Admin Dashboard**: Manage users, products, and orders using Django Admin.
+- **Home Page**: Displays banners and featured products.
+- **Product Categories**: Users can browse products based on different categories.
+- **Product View**: Detailed page for each product with descriptions and pricing.
+- **Shopping Cart**: Users can add products to their cart and view selected items.
+- **Add to Cart**: Allows users to add and remove products from the cart.
+
+
 
 ## 🛠 Tech Stack
 - **Backend**: Django
@@ -17,6 +24,12 @@ This is a fully functional E-Commerce web application built using Django. It pro
 - **Database**: SQLite
 - **Authentication**: Django Auth
 - **Email**: SMTP / Django Email Backend
+
+- **Home Page**: Displays banners and featured products.
+- **Product Categories**: Users can browse products based on different categories.
+- **Product View**: Detailed page for each product with descriptions and pricing.
+- **Shopping Cart**: Users can add products to their cart and view selected items.
+- **Add to Cart**: Allows users to add and remove products from the cart.
 
 ## 📦 Installation
 1. **Clone the repository**
