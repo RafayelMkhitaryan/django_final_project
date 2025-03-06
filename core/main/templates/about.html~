@@ -1,0 +1,42 @@
+{% extends 'base.html'%}
+{% block content %}
+
+<!-- Header-->
+        <header class="bg-dark py-5">
+            <div class="container px-4 px-lg-5 my-5">
+                <div class="text-center text-white">
+                    <h1 class="display-4 fw-bolder">About Us...</h1>
+                    <p class="lead fw-normal text-white-50 mb-0">Welcome to Ecommerce</p>
+                </div>
+            </div>
+        </header>
+
+        <div class="container">
+            <div class="row">
+                <center>
+                    <div class = "col - 8">
+                        <br/><br/>
+                        <p align = "justify">
+                       About Us
+Welcome to [Your Shop Name], your trusted destination for high-quality [your product category, e.g., fashion, electronics, home essentials]. We are committed to bringing you the best products at unbeatable prices while ensuring a seamless shopping experience.
+
+Our Story
+Founded in [Year], [Your Shop Name] was created with a simple goal: to offer top-notch products with convenience and reliability. What started as a passion project has grown into a trusted online store that serves customers worldwide.
+
+Why Shop With Us?
+Premium Quality – We carefully select every product to ensure it meets our high standards.
+Secure Shopping – Your privacy and security are our top priorities.
+Fast & Reliable Shipping – We deliver straight to your doorstep with trusted shipping partners.
+Exceptional Customer Service – Our team is always ready to assist you with any inquiries.
+Our Mission
+At [Your Shop Name], we believe shopping should be enjoyable, stress-free, and rewarding. Whether you're looking for the latest trends, unique finds, or everyday essentials, we're here to make your experience effortless and enjoyable.
+
+Thank you for choosing [Your Shop Name]! We’re honored to be a part of your shopping journey.
+</p>
+                        <br/><br/>
+                    </div>
+                </center>
+            </div>
+        </div>
+
+{% endblock %}
